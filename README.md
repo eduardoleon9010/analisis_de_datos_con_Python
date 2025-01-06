@@ -18,7 +18,7 @@ Al completar este aprendizaje, serás capaz de:
 Este repositorio está dividido en 6 secciones principales, que cubren los siguientes temas:
 
 1. **Recopilación e Importación de Datos**: Aprenderás a importar datos desde diversas fuentes y formatos.
-2. **Limpieza y Preparación de Datos**: Técnicas para limpiar y formatear datos antes de analizarlos.
+2. **Preprocesamiento de Datos**: Técnicas para limpiar y formatear datos antes de analizarlos.
 3. **Manipulación de Datos con Pandas y Numpy**: Aprenderás a trabajar con marcos de datos y realizar manipulaciones esenciales.
 4. **Análisis Exploratorio de Datos (AED)**: Aplicarás técnicas estadísticas y visualizaciones para explorar los datos.
 5. **Construcción de Modelos de Regresión**: Desarrollarás modelos de regresión lineal, múltiple y polinómica para realizar predicciones.
