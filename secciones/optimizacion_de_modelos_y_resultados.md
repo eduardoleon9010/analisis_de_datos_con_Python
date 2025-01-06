@@ -1,4 +1,4 @@
-## Sección 5: Evaluación y Refinamiento de Modelos
+## Sección 5: Optimización de modelos y resultados
 
 En esta sección, aprenderás sobre la importancia de la **evaluación de modelos** y cómo aplicar técnicas de **refinamiento de modelos** para mejorar la precisión y generalización de los modelos predictivos. Analizarás el proceso de **selección de modelos**, y aprenderás a identificar y abordar el **sobreajuste (overfitting)** y el **subajuste (underfitting)** en los modelos. Además, profundizarás en el uso de la **regresión de cresta** (Ridge Regression) para regularizar un modelo y reducir los errores estándar, con el objetivo de evitar el sobreajuste. También aprenderás a utilizar el **método de búsqueda en cuadrícula** para ajustar los **hiperparámetros** de los estimadores y mejorar el rendimiento del modelo.
 
