@@ -1,4 +1,4 @@
-## Sección 4: Desarrollo de Modelos
+## Sección 4: Creación de modelos predictivos
 
 En esta sección, aprenderás cómo desarrollar y evaluar modelos de regresión utilizando Python. Comenzarás por entender la diferencia entre la variable explicativa y la variable de respuesta, y cómo estos conceptos se aplican en los modelos de **regresión lineal simple** y **regresión lineal múltiple**. Además, aprenderás a evaluar un modelo visualmente, aplicar regresión polinómica, y trabajar con **pipelines** para organizar el flujo de trabajo del modelo. También se te enseñará cómo interpretar y usar las métricas de evaluación, como el **error cuadrático medio (MSE)** y el **coeficiente de determinación (R²)**, para realizar evaluaciones en la muestra y determinar la calidad de los modelos. Por último, abordarás el proceso de predicción y toma de decisiones para evaluar la validez de tus modelos y su aplicabilidad.
 
