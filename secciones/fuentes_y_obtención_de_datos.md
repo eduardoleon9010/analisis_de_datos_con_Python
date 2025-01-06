@@ -1,4 +1,4 @@
-## Seccion 1: Introducción a la Importación y Exploración de Datos
+## Seccion 1: Fuentes y obtención de datos
 
 En esta seccion, aprenderás los conceptos fundamentales para comprender los datos y cómo utilizar las bibliotecas de Python para importar información desde diversas fuentes. Además, adquirirás habilidades esenciales para realizar tareas iniciales que te permitirán comenzar a explorar y analizar los conjuntos de datos importados.
 
