@@ -49,9 +49,12 @@ Con estas herramientas, los usuarios podrán abordar con confianza problemas com
 
 ---
 
-## Invitación a la comunidad
+## Invitación a la Comunidad
 
-Este repositorio académico no solo es un recurso educativo, sino también una invitación para que más personas se sumen al fascinante mundo del análisis de datos con Python. 
+Este repositorio académico no solo es un recurso educativo, sino también una invitación para que más personas se sumen al fascinante mundo del análisis de datos con Python.  
+
+Para conocer más sobre los términos de uso, consulta la **licencia** y el **código de conducta** del repositorio, disponibles en la [documentación](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/tree/main/documentacion).
+
 
 📚 **¡Comienza tu aprendizaje hoy y forma parte de la comunidad que transforma datos en conocimiento valioso!** 🚀
 
