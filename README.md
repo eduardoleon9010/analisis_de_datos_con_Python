@@ -17,12 +17,12 @@ Este repositorio ha sido diseñado como un recurso académico de libre acceso, o
 
 El contenido está dividido en seis módulos que siguen una progresión lógica, permitiendo al usuario desarrollar habilidades prácticas y teóricas en análisis de datos:
 
-1. **[Fuentes y obtención de datos]()**: Introducción a diversas fuentes de datos y formatos de importación.  
-2. **[Preparación de datos para el análisis]()**: Técnicas de limpieza y preparación de datos.  
-3. **[Exploración inicial de los datos]()**: Métodos estadísticos y visuales para explorar y comprender conjuntos de datos.  
-4. **[Creación de modelos predictivos]()**: Construcción de modelos de regresión y predicción utilizando técnicas avanzadas.  
-5. **[Optimización de modelos y resultados]()**: Validación, ajuste y optimización de modelos predictivos.  
-6. **[Proyecto de aplicación práctica]()**: Resolución de un problema real aplicando los conocimientos adquiridos.
+1. **[Fuentes y obtención de datos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/1._fuentes_y_obtenci%C3%B3n_de_datos.md)**: Introducción a diversas fuentes de datos y formatos de importación.  
+2. **[Preparación de datos para el análisis](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/2._preparacion_de_datos_para_el_analisis.md)**: Técnicas de limpieza y preparación de datos.  
+3. **[Exploración inicial de los datos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/3._exploracion_inicial_de_los_datos.md)**: Métodos estadísticos y visuales para explorar y comprender conjuntos de datos.  
+4. **[Creación de modelos predictivos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/4._creacion_de_modelos_predictivos.md)**: Construcción de modelos de regresión y predicción utilizando técnicas avanzadas.  
+5. **[Optimización de modelos y resultados](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/5._optimizacion_de_modelos_y_resultados.md)**: Validación, ajuste y optimización de modelos predictivos.  
+6. **[Proyecto de aplicación práctica](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/6._proyecto_de_aplicacion_practica.md)**: Resolución de un problema real aplicando los conocimientos adquiridos.
 
 ---
 
