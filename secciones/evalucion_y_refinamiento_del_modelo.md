@@ -1,0 +1,22 @@
+## Sección 5: Evaluación y Refinamiento de Modelos
+
+En esta sección, aprenderás sobre la importancia de la **evaluación de modelos** y cómo aplicar técnicas de **refinamiento de modelos** para mejorar la precisión y generalización de los modelos predictivos. Analizarás el proceso de **selección de modelos**, y aprenderás a identificar y abordar el **sobreajuste (overfitting)** y el **subajuste (underfitting)** en los modelos. Además, profundizarás en el uso de la **regresión de cresta** (Ridge Regression) para regularizar un modelo y reducir los errores estándar, con el objetivo de evitar el sobreajuste. También aprenderás a utilizar el **método de búsqueda en cuadrícula** para ajustar los **hiperparámetros** de los estimadores y mejorar el rendimiento del modelo.
+
+### Objetivos de Aprendizaje
+
+Al finalizar esta sección, serás capaz de:
+
+1. **Describir técnicas de refinamiento del modelo de datos**: Conocerás diversas técnicas para ajustar y mejorar los modelos de datos, asegurando que los modelos sean más robustos y efectivos en su predicción.
+
+2. **Explicar el sobreajuste, el subajuste y la selección del modelo**: Aprenderás a identificar los problemas de sobreajuste y subajuste en los modelos, y cómo elegir el modelo adecuado para evitar ambos problemas.
+
+3. **Aplicar regresión de cresta para regularizar y reducir los errores estándar**: Dominarás cómo usar la **regresión de cresta** para regularizar los modelos de regresión, reduciendo los errores estándar y previniendo el sobreajuste.
+
+4. **Aplicar técnicas de búsqueda en cuadrícula usando Python**: Aprenderás a usar la técnica de **búsqueda en cuadrícula** para optimizar los hiperparámetros de un modelo y mejorar su rendimiento.
+
+5. **Explicar cómo funcionan las búsquedas en cuadrícula**: Entenderás cómo funciona la búsqueda en cuadrícula y cómo puede ser utilizada para encontrar la mejor combinación de hiperparámetros en los modelos.
+
+6. **Describir cómo funciona la regresión de cresta para evitar el sobreajuste de un modelo**: Aprenderás cómo la regresión de cresta utiliza penalizaciones en los coeficientes para evitar que el modelo se ajuste demasiado a los datos de entrenamiento, mejorando su capacidad de generalización.
+
+---
+
