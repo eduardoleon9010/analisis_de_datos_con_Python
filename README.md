@@ -22,6 +22,7 @@ Este repositorio está dividido en 6 secciones principales, que cubren los sigui
 3. **Análisis Exploratorio de Datos (AED)**: Aplicarás técnicas estadísticas y visualizaciones para explorar los datos.
 4. **Desarollo de modelos**: Desarrollarás modelos de regresión lineal, múltiple y polinómica para realizar predicciones.
 5. **Evaluación y Refinamiento de Modelos**: Evaluarás la precisión de los modelos construidos y aprenderás a mejorarlos.
+6. [**Proyecto final**]()
 
 ## Descripción Detallada
 
