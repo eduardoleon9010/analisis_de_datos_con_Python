@@ -20,7 +20,7 @@ Este repositorio está dividido en 6 secciones principales, que cubren los sigui
 1. **Recopilación e Importación de Datos**: Aprenderás a importar datos desde diversas fuentes y formatos.
 2. **Preprocesamiento de Datos**: Técnicas para limpiar y formatear datos antes de analizarlos.
 3. **Análisis Exploratorio de Datos (AED)**: Aplicarás técnicas estadísticas y visualizaciones para explorar los datos.
-4. **Construcción de Modelos de Regresión**: Desarrollarás modelos de regresión lineal, múltiple y polinómica para realizar predicciones.
+4. **Desarollo de modelos**: Desarrollarás modelos de regresión lineal, múltiple y polinómica para realizar predicciones.
 5. **Evaluación y Refinamiento de Modelos**: Evaluarás la precisión de los modelos construidos y aprenderás a mejorarlos.
 
 ## Descripción Detallada
