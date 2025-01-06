@@ -1,0 +1,18 @@
+## Sección 3: Análisis Exploratorio de Datos
+
+En esta sección, aprenderás sobre el **análisis exploratorio de datos (AED)**, un proceso fundamental para comprender la estructura y las relaciones dentro de un conjunto de datos. Realizarás cálculos estadísticos descriptivos básicos, como la media, mediana, moda y cuartiles, y utilizarás esta información para interpretar la distribución de los datos. También aprenderás cómo agrupar los datos para obtener una visualización más clara, así como cómo utilizar el **coeficiente de correlación de Pearson** para comparar dos variables numéricas continuas. Además, se te introducirá la **prueba de Chi-cuadrado**, que te permitirá evaluar la asociación entre variables categóricas y cómo interpretar los resultados.
+
+### Objetivos de Aprendizaje
+
+Al finalizar esta sección, serás capaz de:
+
+1. **Implementar estadísticas descriptivas**: Aprenderás a calcular medidas estadísticas clave como la media, mediana, moda y cuartiles para comprender la distribución de los datos.
+
+2. **Agrupar datos de manera efectiva**: Aplicarás técnicas de agrupación para organizar y visualizar los datos de forma más comprensible y significativa.
+
+3. **Comprender el proceso de correlación de datos**: Dominarás cómo calcular y analizar la **correlación de Pearson** para estudiar la relación entre dos variables numéricas continuas.
+
+4. **Aplicar la prueba de Chi-cuadrado**: Utilizarás la prueba de Chi-cuadrado para evaluar la independencia entre dos variables categóricas, y aprenderás cómo interpretar los resultados de esta prueba.
+
+---
+
