@@ -1,49 +1,57 @@
-# Análisis de Datos con Python
+# Repositorio académico: **Análisis de Datos con Python**
 
-## Acerca de
+## Propósito y contexto
 
-El análisis de datos con Python es una habilidad esencial para los científicos de datos y los analistas. Este repositorio te guiará desde los fundamentos hasta la construcción y evaluación de modelos de datos utilizando Python. A lo largo de esta formacion, aprenderás a manejar y analizar conjuntos de datos reales para extraer información valiosa que pueda ser utilizada en la toma de decisiones y predicciones.
+Este repositorio ha sido diseñado como un recurso académico de libre acceso, orientado a proporcionar una formación integral en el análisis de datos con Python. Está estructurado para facilitar el aprendizaje desde los fundamentos hasta la construcción y evaluación de modelos predictivos, utilizando herramientas ampliamente reconocidas en el campo del analisis de datos.
 
-## Qué aprenderás
+## Objetivos de aprendizaje
 
-Al completar este aprendizaje, serás capaz de:
-
-- **Desarrollar código Python para limpiar y preparar datos** para el análisis, incluyendo técnicas de manejo de valores perdidos, formateo, normalización y binning de datos.
-- **Realizar análisis exploratorios de datos (AED)** aplicando técnicas analíticas a conjuntos de datos reales utilizando bibliotecas como Pandas, Numpy y Scipy.
-- **Manipular datos usando marcos de datos** (DataFrames), resumir información, comprender la distribución de los datos, realizar análisis de correlación y crear canalizaciones de datos.
-- **Construir y evaluar modelos de regresión** utilizando la biblioteca de aprendizaje automático scikit-learn, y aplicar estos modelos para la predicción y la toma de decisiones informadas.
-
-## Contenido del repositorio
-
-Este repositorio está dividido en 6 secciones principales, que cubren los siguientes temas:
-
-1. **Recopilación e Importación de Datos**: Aprenderás a importar datos desde diversas fuentes y formatos.
-2. **Preprocesamiento de Datos**: Técnicas para limpiar y formatear datos antes de analizarlos.
-3. **Análisis Exploratorio de Datos (AED)**: Aplicarás técnicas estadísticas y visualizaciones para explorar los datos.
-4. **Desarollo de modelos**: Desarrollarás modelos de regresión lineal, múltiple y polinómica para realizar predicciones.
-5. **Evaluación y Refinamiento de Modelos**: Evaluarás la precisión de los modelos construidos y aprenderás a mejorarlos.
-6. [**Proyecto final**]()
-
-## Descripción Detallada
-
-Durante esta formacion, aprenderás cómo trabajar con **Pandas** y **Numpy** para cargar, manipular, analizar y visualizar conjuntos de datos interesantes. Adicional, explorarás herramientas como **Scipy** y **Scikit-learn**, que te permitirán construir modelos de aprendizaje automático y hacer predicciones.
-
-### Metodología
-
-Esta formación combina teoría y práctica. Las lecciones teóricas están acompañadas de proyectos prácticos, en los que aplicarás lo aprendido en escenarios del mundo real, utilizando [**Notebooks en Google Colab**](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/notebooks.md) para facilitar el aprendizaje interactivo y la experimentación directa con los datos.
-
-- **Proyectos prácticos**: Trabajarás con proyectos reales, lo que te permitirá enfrentar desafíos similares a los que encontrarías en el ámbito profesional.
-
-### Bibliotecas de Python utilizadas
-
-- **Pandas**: Para la manipulación y análisis de datos.
-- **Numpy**: Para realizar cálculos numéricos y manejo de matrices.
-- **Scipy**: Para el análisis científico y técnico de datos.
-- **Scikit-learn**: Para la construcción y evaluación de modelos de aprendizaje automático.
-
-Con el dominio de estas herramientas, estarás preparado para desarrollar modelos predictivos y tomar decisiones basadas en los datos.
-
+1. **Preparar y limpiar datos** de manera eficiente mediante técnicas avanzadas como el manejo de valores perdidos, formateo, normalización y segmentación de datos.
+2. **Realizar análisis exploratorios de datos (AED)** utilizando bibliotecas especializadas como **Pandas**, **Numpy** y **Scipy**, para comprender patrones y tendencias en conjuntos de datos reales.
+3. **Manipular estructuras de datos complejas** como DataFrames, extraer resúmenes estadísticos, explorar correlaciones y construir canalizaciones de procesamiento.
+4. **Desarrollar y evaluar modelos predictivos** con la biblioteca **Scikit-learn**, incluyendo regresión lineal, múltiple y polinómica, aplicando dichos modelos para resolver problemas del mundo real.
 
 ---
 
-**¡Comienza hoy mismo y da el primer paso para convertirte en un experto en análisis de datos con Python!**
+## Estructura del aprendizaje
+
+El contenido está dividido en seis módulos que siguen una progresión lógica, permitiendo al usuario desarrollar habilidades prácticas y teóricas en análisis de datos:
+
+1. **[Fuentes y obtención de datos]()**: Introducción a diversas fuentes de datos y formatos de importación.  
+2. **[Preparación de datos para el análisis]()**: Técnicas de limpieza y preparación de datos.  
+3. **[Exploración inicial de los datos]()**: Métodos estadísticos y visuales para explorar y comprender conjuntos de datos.  
+4. **[Creación de modelos predictivos]()**: Construcción de modelos de regresión y predicción utilizando técnicas avanzadas.  
+5. **[Optimización de modelos y resultados]()**: Validación, ajuste y optimización de modelos predictivos.  
+6. **[Proyecto de aplicación práctica]()**: Resolución de un problema real aplicando los conocimientos adquiridos.
+
+---
+
+## Metodología
+
+La formación combina un enfoque teórico-práctico basado en:
+
+- **Lecciones conceptuales** que explican los fundamentos esenciales del análisis de datos.  
+- **Proyectos prácticos**, diseñados para enfrentar desafíos similares a los del ámbito profesional.  
+- Uso de [**Google Colab**](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/notebooks.md), permitiendo la experimentación interactiva con los datos en un entorno accesible.  
+
+---
+
+## Herramientas clave en el aprendizaje
+
+El repositorio incluye tutoriales y ejercicios enfocados en el uso de las siguientes bibliotecas:
+
+- **Pandas**: Manipulación eficiente de datos.  
+- **Numpy**: Cálculo numérico avanzado.  
+- **Scipy**: Herramientas científicas para análisis de datos.  
+- **Scikit-learn**: Creación y evaluación de modelos predictivos.  
+
+Con estas herramientas, los usuarios podrán abordar con confianza problemas complejos en el análisis de datos.
+
+---
+
+## Invitación a la comunidad
+
+Este repositorio académico no solo es un recurso educativo, sino también una invitación para que más personas se sumen al fascinante mundo del análisis de datos con Python. 
+
+📚 **¡Comienza tu aprendizaje hoy y forma parte de la comunidad que transforma datos en conocimiento valioso!** 🚀
+
