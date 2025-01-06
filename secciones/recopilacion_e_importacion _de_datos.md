@@ -17,7 +17,8 @@ Al finalizar esta seccion, serás capaz de:
 5. **Demostrar cómo importar y exportar datos en Python**: Comprenderás cómo importar datos desde diversas fuentes (archivos locales, bases de datos, APIs, etc.) y cómo exportar los resultados de tu análisis a diferentes formatos (CSV, Excel, JSON, entre otros).
 
 Este módulo te proporcionará las herramientas necesarias para comenzar tu viaje en el análisis de datos con Python, enfocándose en las habilidades clave para gestionar y explorar datos desde el principio del proceso.
-# Notebooks
+___
+# Notebooks de practica
 
 - [Importacion de conjuntos de datos 1]()
 - [Impotacion conjunto de datos 2]()
