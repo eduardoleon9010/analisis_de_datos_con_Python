@@ -30,7 +30,7 @@ Durante esta formacion, aprenderás cómo trabajar con **Pandas** y **Numpy** pa
 
 ### Metodología
 
-Esta formacion combina teória y práctica. Las lecciones en teoricas son acompañadas por proyectos prácticos, donde aplicarás lo aprendido en escenarios del mundo real.
+Esta formación combina teoría y práctica. Las lecciones teóricas están acompañadas de proyectos prácticos, en los que aplicarás lo aprendido en escenarios del mundo real, utilizando [**Notebooks en Google Colab**]() para facilitar el aprendizaje interactivo y la experimentación directa con los datos.
 
 - **Proyectos prácticos**: Trabajarás con proyectos reales, lo que te permitirá enfrentar desafíos similares a los que encontrarías en el ámbito profesional.
 
@@ -42,6 +42,7 @@ Esta formacion combina teória y práctica. Las lecciones en teoricas son acompa
 - **Scikit-learn**: Para la construcción y evaluación de modelos de aprendizaje automático.
 
 Con el dominio de estas herramientas, estarás preparado para desarrollar modelos predictivos y tomar decisiones basadas en los datos.
+
 
 ---
 
