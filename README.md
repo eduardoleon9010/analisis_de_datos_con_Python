@@ -30,7 +30,7 @@ Durante esta formacion, aprenderás cómo trabajar con **Pandas** y **Numpy** pa
 
 ### Metodología
 
-Esta formación combina teoría y práctica. Las lecciones teóricas están acompañadas de proyectos prácticos, en los que aplicarás lo aprendido en escenarios del mundo real, utilizando [**Notebooks en Google Colab**]() para facilitar el aprendizaje interactivo y la experimentación directa con los datos.
+Esta formación combina teoría y práctica. Las lecciones teóricas están acompañadas de proyectos prácticos, en los que aplicarás lo aprendido en escenarios del mundo real, utilizando [**Notebooks en Google Colab**](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/notebooks.md) para facilitar el aprendizaje interactivo y la experimentación directa con los datos.
 
 - **Proyectos prácticos**: Trabajarás con proyectos reales, lo que te permitirá enfrentar desafíos similares a los que encontrarías en el ámbito profesional.
 
