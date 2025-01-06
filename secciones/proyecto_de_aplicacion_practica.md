@@ -1,4 +1,4 @@
-## Sección 6: Proyecto Final
+## Sección 6: Proyecto de aplicación práctica
 
 En esta última sección, completarás la tarea final del curso, que será evaluada por tus compañeros. En este proyecto, asumirás el rol de un **analista de datos** trabajando en una **organización de fideicomiso de inversión inmobiliaria** que está considerando comenzar a invertir en bienes raíces residenciales. Se te proporcionará un conjunto de datos que incluye información detallada sobre los precios de las viviendas en la región, con varias características de las propiedades. Tu tarea consistirá en analizar estos datos y predecir el precio de mercado de las viviendas basándote en dicha información.
 
