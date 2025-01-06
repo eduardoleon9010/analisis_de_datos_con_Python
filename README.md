@@ -32,7 +32,7 @@ La formación combina un enfoque teórico-práctico basado en:
 
 - **Lecciones conceptuales** que explican los fundamentos esenciales del análisis de datos.  
 - **Proyectos prácticos**, diseñados para enfrentar desafíos similares a los del ámbito profesional.  
-- Uso de [**Google Colab**](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/notebooks.md), permitiendo la experimentación interactiva con los datos en un entorno accesible.  
+- Uso de [**Google Colab**](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/documentacion/notebooks.md), permitiendo la experimentación interactiva con los datos en un entorno accesible.  
 
 ---
 
