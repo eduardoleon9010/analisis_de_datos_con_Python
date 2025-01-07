@@ -15,7 +15,7 @@ Este repositorio ha sido diseñado como un recurso académico de libre acceso, o
 
 ## Estructura del aprendizaje
 
-El contenido está dividido en seis módulos que siguen una progresión lógica, permitiendo al usuario desarrollar habilidades prácticas y teóricas en análisis de datos:
+El contenido está dividido en seis secciones que siguen una progresión lógica, permitiendo al usuario desarrollar habilidades prácticas y teóricas en análisis de datos:
 
 1. **[Fuentes y obtención de datos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/1._fuentes_y_obtenci%C3%B3n_de_datos.md)**: Introducción a diversas fuentes de datos y formatos de importación.  
 2. **[Preparación de datos para el análisis](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/2._preparacion_de_datos_para_el_analisis.md)**: Técnicas de limpieza y preparación de datos.  
