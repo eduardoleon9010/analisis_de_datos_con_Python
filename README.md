@@ -10,9 +10,8 @@
   Este repositorio académico está diseñado para ofrecer una experiencia de aprendizaje integral sobre análisis de datos, utilizando herramientas estándar de Python aplicadas a problemas reales.
 </p>
 
----
 
-## Objetivos de Aprendizaje
+ Objetivos de aprendizaje
 
 - Limpieza, normalización y transformación avanzada de datos.
 - Análisis exploratorio con Pandas, Numpy y Scipy.
@@ -20,9 +19,8 @@
 - Construcción y evaluación de modelos de regresión.
 - Aplicación de Scikit-learn a flujos completos de análisis predictivo.
 
----
 
-## Estructura del Aprendizaje
+## Estructura del aprendizaje
 
 <table>
   <tr>
@@ -51,24 +49,21 @@
   </tr>
 </table>
 
----
 
-## Herramientas Utilizadas
+## Herramientas utilizadas
 
 <div style="background-color: #f9f9f9; padding: 16px; border-radius: 10px; max-width: 1000px;">
-  <p><img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/> Manipulación eficiente de datos tabulares.</p>
-  <p><img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat&logo=numpy&logoColor=white"/> Operaciones numéricas y transformaciones vectoriales.</p>
-  <p><img src="https://img.shields.io/badge/Scipy-8CAAE6.svg?&style=flat&logo=scipy&logoColor=white"/> Herramientas estadísticas y científicas.</p>
-  <p><img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/> Modelado predictivo y evaluación.</p>
-  <p><img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/> Visualización de datos con gráficos.</p>
+  <p><img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>  Manipulación eficiente de datos tabulares.</p>
+  <p><img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat&logo=numpy&logoColor=white"/>  Operaciones numéricas y transformaciones vectoriales.</p>
+  <p><img src="https://img.shields.io/badge/Scipy-8CAAE6.svg?&style=flat&logo=scipy&logoColor=white"/>  Herramientas estadísticas y científicas.</p>
+  <p><img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/>  Modelado predictivo y evaluación.</p>
+  <p><img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/>  | Visualización de datos con gráficos.</p>
 </div>
 
----
-
-## Metodología de Enseñanza
+## Metodología 
 
 Este repositorio combina teoría y práctica con herramientas accesibles para todos los niveles. Cada sección incluye cuadernos en formato **Jupyter**, ejecutables directamente en [Google Colab](https://colab.research.google.com/).
 
 Consulta la [documentación](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/tree/main/documentacion) para más detalles sobre licencias y colaboración.
 
-<p align="center" style="font-weight:bold; color:#1e293b;">Repositorio desarrollado y mantenido por Eduardo León.</p>
+<p align="center" style="font-weight:bold; color:#1e293b;">Repositorio desarrollado y mantenido por Ing. Leon, E.</p>
