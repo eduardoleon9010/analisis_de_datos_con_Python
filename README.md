@@ -1,60 +1,87 @@
-# Repositorio académico: **Análisis de Datos con Python**
+<h1 align="center" style="color:#1e40af; font-size:2em;">
+  Análisis de Datos con Python
+</h1>
 
-## Propósito y contexto
+<p align="center" style="font-size: 1.05em;">
+  Repositorio académico de libre acceso diseñado para el aprendizaje progresivo del análisis de datos en Python, desde la obtención hasta la creación de modelos predictivos aplicables al mundo real.
+</p>
 
-Este repositorio ha sido diseñado como un recurso académico de libre acceso, orientado a proporcionar una formación integral en el análisis de datos con Python. Está estructurado para facilitar el aprendizaje desde los fundamentos hasta la construcción y evaluación de modelos predictivos, utilizando herramientas ampliamente reconocidas en el campo del analisis de datos.
+<h2 style="color:#1e293b; font-size: 1.3em;">Propósito y contexto</h2>
 
-## Objetivos de aprendizaje
+<p style="text-align: justify;">
+Este repositorio ha sido creado como un recurso educativo estructurado, orientado a proporcionar una formación integral en análisis de datos. La progresión de los contenidos permite al usuario avanzar desde la adquisición y limpieza de datos hasta el desarrollo y evaluación de modelos predictivos.
+</p>
 
-1. **Preparar y limpiar datos** de manera eficiente mediante técnicas avanzadas como el manejo de valores perdidos, formateo, normalización y segmentación de datos.
-2. **Realizar análisis exploratorios de datos (AED)** utilizando bibliotecas especializadas como **Pandas**, **Numpy** y **Scipy**, para comprender patrones y tendencias en conjuntos de datos reales.
-3. **Manipular estructuras de datos complejas** como DataFrames, extraer resúmenes estadísticos, explorar correlaciones y construir canalizaciones de procesamiento.
-4. **Desarrollar y evaluar modelos predictivos** con la biblioteca **Scikit-learn**, incluyendo regresión lineal, múltiple y polinómica, aplicando dichos modelos para resolver problemas del mundo real.
+<h2 style="color:#1e293b; font-size: 1.3em;">Objetivos de aprendizaje</h2>
 
----
+<ul>
+  <li>Preparar y limpiar datos mediante técnicas como normalización, imputación y transformación.</li>
+  <li>Realizar análisis exploratorios utilizando bibliotecas como <strong>Pandas</strong>, <strong>Numpy</strong> y <strong>Scipy</strong>.</li>
+  <li>Manipular estructuras de datos complejas, extraer resúmenes estadísticos y construir pipelines.</li>
+  <li>Desarrollar modelos de regresión lineal, múltiple y polinómica con <strong>Scikit-learn</strong>.</li>
+</ul>
 
-## Estructura del aprendizaje
+<h2 style="color:#1e293b; font-size: 1.3em;">Estructura del aprendizaje</h2>
 
-El contenido está dividido en seis secciones que siguen una progresión lógica, permitiendo al usuario desarrollar habilidades prácticas y teóricas en análisis de datos:
+<section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-1. **[Fuentes y obtención de datos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/1._fuentes_y_obtenci%C3%B3n_de_datos.md)**: Introducción a diversas fuentes de datos y formatos de importación.  
-2. **[Preparación de datos para el análisis](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/2._preparacion_de_datos_para_el_analisis.md)**: Técnicas de limpieza y preparación de datos.  
-3. **[Exploración inicial de los datos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/3._exploracion_inicial_de_los_datos.md)**: Métodos estadísticos y visuales para explorar y comprender conjuntos de datos.  
-4. **[Creación de modelos predictivos](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/4._creacion_de_modelos_predictivos.md)**: Construcción de modelos de regresión y predicción utilizando técnicas avanzadas.  
-5. **[Optimización de modelos y resultados](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/5._optimizacion_de_modelos_y_resultados.md)**: Validación, ajuste y optimización de modelos predictivos.  
-6. **[Proyecto de aplicación práctica](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/6._proyecto_de_aplicacion_practica.md)**: Resolución de un problema real aplicando los conocimientos adquiridos.
+  <div style="width: 320px; background: #f9f9f9; border-radius: 8px; padding: 16px;">
+    <a href="https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/1._fuentes_y_obtenci%C3%B3n_de_datos.md" style="color:#1e40af;"><strong>1. Fuentes y obtención de datos</strong></a>
+    <p>Importación desde diferentes fuentes, formatos y APIs.</p>
+  </div>
 
----
+  <div style="width: 320px; background: #f9f9f9; border-radius: 8px; padding: 16px;">
+    <a href="https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/2._preparacion_de_datos_para_el_analisis.md" style="color:#1e40af;"><strong>2. Preparación de datos</strong></a>
+    <p>Limpieza, estandarización, codificación y tratamiento de valores faltantes.</p>
+  </div>
 
-## Metodología
+  <div style="width: 320px; background: #f9f9f9; border-radius: 8px; padding: 16px;">
+    <a href="https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/3._exploracion_inicial_de_los_datos.md" style="color:#1e40af;"><strong>3. Exploración inicial</strong></a>
+    <p>Análisis estadístico y visualización para detectar patrones y relaciones.</p>
+  </div>
 
-La formación combina un enfoque teórico-práctico basado en:
+  <div style="width: 320px; background: #f9f9f9; border-radius: 8px; padding: 16px;">
+    <a href="https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/4._creacion_de_modelos_predictivos.md" style="color:#1e40af;"><strong>4. Modelado predictivo</strong></a>
+    <p>Construcción de modelos de regresión con evaluación de desempeño.</p>
+  </div>
 
-- **Lecciones conceptuales** que explican los fundamentos esenciales del análisis de datos.  
-- **Proyectos prácticos**, diseñados para enfrentar desafíos similares a los del ámbito profesional.  
-- Uso de [**Google Colab**](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/documentacion/notebooks.md), permitiendo la experimentación interactiva con los datos en un entorno accesible.  
+  <div style="width: 320px; background: #f9f9f9; border-radius: 8px; padding: 16px;">
+    <a href="https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/5._optimizacion_de_modelos_y_resultados.md" style="color:#1e40af;"><strong>5. Optimización de modelos</strong></a>
+    <p>Ajuste de hiperparámetros, validación cruzada y métricas.</p>
+  </div>
 
----
+  <div style="width: 320px; background: #f9f9f9; border-radius: 8px; padding: 16px;">
+    <a href="https://github.com/eduardoleon9010/analisis_de_datos_con_Python/blob/main/secciones/6._proyecto_de_aplicacion_practica.md" style="color:#1e40af;"><strong>6. Proyecto práctico</strong></a>
+    <p>Aplicación integral sobre un caso real de análisis y predicción.</p>
+  </div>
 
-## Herramientas clave en el aprendizaje
+</section>
 
-El repositorio incluye tutoriales y ejercicios enfocados en el uso de las siguientes bibliotecas:
+<h2 style="color:#1e293b; font-size: 1.3em;">Metodología de aprendizaje</h2>
 
-- **Pandas**: Manipulación eficiente de datos.  
-- **Numpy**: Cálculo numérico avanzado.  
-- **Scipy**: Herramientas científicas para análisis de datos.  
-- **Scikit-learn**: Creación y evaluación de modelos predictivos.  
+<p style="text-align: justify;">
+El enfoque pedagógico combina teoría, práctica y resolución de problemas mediante:
+</p>
 
-Con estas herramientas, los usuarios podrán abordar con confianza problemas complejos en el análisis de datos.
+<ul>
+  <li>Lecciones conceptuales sobre fundamentos clave.</li>
+  <li>Proyectos basados en casos reales con datos abiertos.</li>
+  <li>Cuadernos ejecutables en <a href="https://colab.research.google.com/" target="_blank">Google Colab</a> para facilitar la práctica directa.</li>
+</ul>
 
----
+<h2 style="color:#1e293b; font-size: 1.3em;">Herramientas y tecnologías utilizadas</h2>
 
-## Invitación a la Comunidad
+- Pandas (manipulación de datos)  
+- Numpy (cálculo numérico)  
+- Scipy (estadística y álgebra)  
+- Matplotlib / Seaborn (visualización)  
+- Scikit-learn (modelos de machine learning)
 
-Este repositorio académico no solo es un recurso educativo, sino también una invitación para que más personas se sumen al fascinante mundo del análisis de datos con Python.  
+<h2 style="color:#1e293b; font-size: 1.3em;">Documentación y licencia</h2>
 
-Para conocer más sobre los términos de uso, consulta la **licencia** y el **código de conducta** del repositorio, disponibles en la [documentación](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/tree/main/documentacion).
+Para detalles legales y normas de uso, consulta los archivos de licencia y código de conducta disponibles en la carpeta [documentación](https://github.com/eduardoleon9010/analisis_de_datos_con_Python/tree/main/documentacion).
 
-
-📚 **¡Comienza tu aprendizaje hoy y forma parte de la comunidad que transforma datos en conocimiento valioso!** 🚀
+<p style="text-align: center; font-size: 0.95em; margin-top: 30px; color: #666;">
+Este repositorio es un proyecto educativo impulsado por @eduardoleon9010. Su uso está permitido bajo fines académicos y formativos.
+</p>
 
