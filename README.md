@@ -10,8 +10,7 @@
   Este repositorio académico está diseñado para ofrecer una experiencia de aprendizaje integral sobre análisis de datos, utilizando herramientas estándar de Python aplicadas a problemas reales.
 </p>
 
-
- Objetivos de aprendizaje
+## Objetivos de aprendizaje
 
 - Limpieza, normalización y transformación avanzada de datos.
 - Análisis exploratorio con Pandas, Numpy y Scipy.
@@ -19,8 +18,7 @@
 - Construcción y evaluación de modelos de regresión.
 - Aplicación de Scikit-learn a flujos completos de análisis predictivo.
 
-
-## Estructura del aprendizaje
+ ## Estructura del aprendizaje
 
 <table>
   <tr>
