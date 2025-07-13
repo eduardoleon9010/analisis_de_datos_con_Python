@@ -10,7 +10,7 @@
   Este repositorio académico está diseñado para ofrecer una experiencia de aprendizaje integral sobre análisis de datos, utilizando herramientas estándar de Python aplicadas a problemas reales.
 </p>
 
-## Objetivos de aprendizaje
+**Objetivos de aprendizaje**
 
 - Limpieza, normalización y transformación avanzada de datos.
 - Análisis exploratorio con Pandas, Numpy y Scipy.
@@ -18,7 +18,7 @@
 - Construcción y evaluación de modelos de regresión.
 - Aplicación de Scikit-learn a flujos completos de análisis predictivo.
 
- ## Estructura del aprendizaje
+**Estructura del aprendizaje**
 
 <table>
   <tr>
@@ -47,8 +47,7 @@
   </tr>
 </table>
 
-
-## Herramientas utilizadas
+**Herramientas utilizadas**
 
 <div style="background-color: #f9f9f9; padding: 16px; border-radius: 10px; max-width: 1000px;">
   <p><img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>  Manipulación eficiente de datos tabulares.</p>
@@ -58,7 +57,7 @@
   <p><img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/>  | Visualización de datos con gráficos.</p>
 </div>
 
-## Metodología 
+**Metodología** 
 
 Este repositorio combina teoría y práctica con herramientas accesibles para todos los niveles. Cada sección incluye cuadernos en formato **Jupyter**, ejecutables directamente en [Google Colab](https://colab.research.google.com/).
 
