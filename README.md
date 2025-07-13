@@ -50,11 +50,11 @@
 **Herramientas utilizadas**
 
 <div style="background-color: #f9f9f9; padding: 16px; border-radius: 10px; max-width: 1000px;">
-  <p><img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/> | Manipulación eficiente de datos tabulares.</p>
-  <p><img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat&logo=numpy&logoColor=white"/> | Operaciones numéricas y transformaciones vectoriales.</p>
-  <p><img src="https://img.shields.io/badge/Scipy-8CAAE6.svg?&style=flat&logo=scipy&logoColor=white"/> | Herramientas estadísticas y científicas.</p>
-  <p><img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/> | Modelado predictivo y evaluación.</p>
-  <p><img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/> | Visualización de datos con gráficos.</p>
+  <p><img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>  Manipulación eficiente de datos tabulares.</p>
+  <p><img src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat&logo=numpy&logoColor=white"/>  Operaciones numéricas y transformaciones vectoriales.</p>
+  <p><img src="https://img.shields.io/badge/Scipy-8CAAE6.svg?&style=flat&logo=scipy&logoColor=white"/>  Herramientas estadísticas y científicas.</p>
+  <p><img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/>  Modelado predictivo y evaluación.</p>
+  <p><img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/>  Visualización de datos con gráficos.</p>
 </div>
 
 **Metodología** 
